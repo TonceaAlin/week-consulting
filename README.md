@@ -1,6 +1,7 @@
+
 Small web-application to show the number of the week in the current academic year
 
-It is deployed on week.consulting using heroku
+It is deployed on http://www.week.consulting/ using heroku
 
 Minimalist design
 
